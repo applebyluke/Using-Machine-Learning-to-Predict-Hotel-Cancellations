@@ -1,0 +1,1 @@
+A group project where machine learning was used to predict hotel cancelations for a hypothetical bussiness. Unfortunatly the code will not run unless a machine learning kernel is used with the correct packages. 
